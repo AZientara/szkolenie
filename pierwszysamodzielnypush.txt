@@ -1,2 +1,0 @@
-
-To jest mój plik. Pierwszy, który samodzielnie na serwer.
