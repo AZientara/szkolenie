@@ -1,1 +1,2 @@
 # szkolenie
+Dziś zaczynam programować! :)
