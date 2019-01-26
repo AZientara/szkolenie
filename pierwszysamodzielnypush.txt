@@ -1,1 +1,1 @@
-To jest mój drugi plik. Pierwszy, który samodzielnie wypchnę na serwer.
+To jest mój drugi plik. Pierwszy, który samodzielnie na serwer.
