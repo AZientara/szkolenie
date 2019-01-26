@@ -1,1 +1,3 @@
-To jest mój drugi plik. Pierwszy, który samodzielnie wypchnę na serwer.
+To jest mój plik. Pierwszy, który samodzielnie wypchnę na serwer.
+Moja zmiana na moj-branch2
+moja zmiana na moj-branch4
